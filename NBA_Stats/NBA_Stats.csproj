@@ -154,6 +154,11 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>PlayerDB.mdf</DependentUpon>
     </Content>
+    <Content Include="Screenshots\Screenshot %281%29.png" />
+    <Content Include="Screenshots\Screenshot %282%29.png" />
+    <Content Include="Screenshots\Screenshot %283%29.png" />
+    <Content Include="Screenshots\Screenshot %284%29.png" />
+    <Content Include="Screenshots\Screenshot %285%29.png" />
     <None Include="Resources\PlayersRequested.txt" />
     <None Include="Resources\Player Pictures\Vince_Carter.png" />
     <None Include="Resources\Player Pictures\Victor_Oladipo.png" />
